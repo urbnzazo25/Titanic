@@ -5,5 +5,6 @@ The main parts of the code are the notebooks:
 - **data_cleaning_preprocessing**, where the dataset is cleaned and made readable for a supervised machine learning task
 - **ml_model**, where different machine learning models are tested
 
-Il miglior risultato ottenuto è stato **0.77272** attraverso una Logistic Regression.
+The best result obtained was **0.77272** through Logistic Regression.
 <img width="1462" height="98" alt="image" src="https://github.com/user-attachments/assets/274b8457-e384-460d-9db9-c25192e5095f" />
+
